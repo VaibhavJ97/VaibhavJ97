@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Vaibhav
 
-<!--
-**VaibhavJ97/VaibhavJ97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Web Developer · Python · Data · GIS · M.Sc. Applied Geosciences (KIT)
 
-Here are some ideas to get you started:
+I work at the intersection of software development, data engineering, and applied geosciences. M.Sc. in Applied Geosciences from the Karlsruhe Institute of Technology (graduated February 2026). Currently a Working Student at IONOS SE in Karlsruhe, building responsive web templates in a multi-brand TYPO3 environment and integrating AI tools (Claude, Copilot) with MCP servers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm open to roles in **Python, web development, data engineering, and AI integration** in Germany (Karlsruhe and surrounding region, or remote). Valid German work permit. 1-month notice.
+
+## What I'm currently building
+
+A connected portfolio of 4 deployed sites with 2 serverless backends and 2 AI integrations. Each one is pinned below.
+
+- **[Portfolio homepage](https://vaibhavj97.vercel.app)** - the front door
+- **[Master's Thesis Project](https://vaibhavj97-thesis.vercel.app)** - interactive maps of climate-projected geothermal potential in Germany (5 km resolution, 8 CMIP6 models, 2 SSP scenarios)
+- **[GeoChat](https://vaibhavj97-geochat.vercel.app)** - AI chatbot grounded in my thesis (Vercel serverless + Google Gemini)
+- **[BHE Recommender](https://vaibhavj97-bhe.vercel.app)** - click anywhere on Germany to get a borehole heat exchanger feasibility report with a downloadable PDF
+
+## Tech I work with
+
+**Programming and Backend**: Python (advanced), JavaScript (intermediate), Node.js, REST APIs, Vercel serverless
+
+**Web Development**: HTML, CSS, JavaScript, TYPO3 with MASK Extension, Figma, responsive design
+
+**Data and GIS**: Pandas, NumPy, SciPy, Google Earth Engine, QGIS, Leaflet.js, rasterio, geopandas, chroma-js, custom JSON pipelines
+
+**AI Integration**: Google Gemini API, Claude, GitHub Copilot, MCP servers, prompt engineering, context injection
+
+## What I'm currently exploring
+
+Node.js and serverless patterns · LLM API integration · MCP server integration · Interactive geospatial JavaScript · Custom JSON data pipelines
+
+## Get in touch
+
+- Email: **vaibhavjaiswal1234@gmail.com**
+- LinkedIn: [linkedin.com/in/vaibhavgeo](https://www.linkedin.com/in/vaibhavgeo/)
+- Book a 30-min call: [calendly.com/vaibhavjaiswal1234/30min](https://calendly.com/vaibhavjaiswal1234/30min)
+- Portfolio: [vaibhavj97.vercel.app](https://vaibhavj97.vercel.app)
+
+Based in Karlsruhe, Germany. I respond to most messages within a few days.
