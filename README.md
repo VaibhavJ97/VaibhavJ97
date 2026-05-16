@@ -6,6 +6,17 @@ I work at the intersection of software development, data engineering, and applie
 
 I'm open to roles in **Python, web development, data engineering, and AI integration** in Germany (Karlsruhe and surrounding region, or remote). Valid German work permit. 1-month notice.
 
+## How I work - AI-pair-programming as part of the stack
+
+I build using **AI-assisted development workflows**. Claude (Anthropic), ChatGPT, and GitHub Copilot are my pair-programming collaborators across architecture, prototyping, debugging, documentation, and refactoring. MCP servers integrate these tools into my daily IONOS workflow.
+
+What this means in practice:
+- **I design** the architecture, define the requirements, choose the stack, and review every line that ships
+- **AI accelerates** the writing, the documentation, the debugging, and the "what's the cleanest way to do X" iteration
+- **The result** is faster shipping without losing ownership of the system
+
+This is part of why I could ship 4 connected deployed apps in parallel with my Master's thesis. AI-fluency is a 2026 hireable skill, and I lean into it.
+
 ## What I'm currently building
 
 A connected portfolio of 4 deployed sites with 2 serverless backends and 2 AI integrations. Each one is pinned below.
@@ -23,11 +34,11 @@ A connected portfolio of 4 deployed sites with 2 serverless backends and 2 AI in
 
 **Data and GIS**: Pandas, NumPy, SciPy, Google Earth Engine, QGIS, Leaflet.js, rasterio, geopandas, chroma-js, custom JSON pipelines
 
-**AI Integration**: Google Gemini API, Claude, GitHub Copilot, MCP servers, prompt engineering, context injection
+**AI Integration**: Anthropic Claude API, Google Gemini API, ChatGPT, GitHub Copilot, MCP servers, prompt engineering, AI-pair-programming workflows, context injection
 
 ## What I'm currently exploring
 
-Node.js and serverless patterns · LLM API integration · MCP server integration · Interactive geospatial JavaScript · Custom JSON data pipelines
+Node.js and serverless patterns · LLM API integration · MCP server integration · Interactive geospatial JavaScript · Custom JSON data pipelines · AI-assisted development workflows
 
 ## Get in touch
 
