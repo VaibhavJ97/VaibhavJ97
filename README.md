@@ -2,7 +2,7 @@
 
 > Web Developer · Python · Data · GIS · M.Sc. Applied Geosciences (KIT)
 
-I work at the intersection of software development, data engineering, and applied geosciences. M.Sc. in Applied Geosciences from the Karlsruhe Institute of Technology (graduated February 2026). Currently a Working Student at IONOS SE in Karlsruhe, building responsive web templates in a multi-brand TYPO3 environment and integrating AI tools (Claude, Copilot) with MCP servers.
+I work at the intersection of software development, data engineering, and applied geosciences. M.Sc. in Applied Geosciences from the Karlsruhe Institute of Technology. Currently a Working Student at IONOS SE in Karlsruhe, building responsive web templates in a multi-brand TYPO3 environment and integrating AI tools (Claude, Copilot) with MCP servers.
 
 I'm open to roles in **Python, web development, data engineering, and AI integration** in Germany (Karlsruhe and surrounding region, or remote). Valid German work permit. 1-month notice.
 
