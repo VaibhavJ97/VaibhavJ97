@@ -2,7 +2,7 @@
 
 > Software Developer · Python · JavaScript · AI Integration
 
-I'm a software developer building AI-integrated apps, serverless backends, and interactive web tools in Python, JavaScript, and Node.js. Currently a Working Student at IONOS SE in Karlsruhe, integrating AI tools (Claude, Copilot, MCP servers) into the team's development workflow and building responsive web templates in a multi-brand TYPO3 environment. M.Sc. in Applied Geosciences from the Karlsruhe Institute of Technology.
+I'm a software developer building AI-integrated apps, serverless backends, and interactive web tools in Python, JavaScript, and Node.js. Worked at IONOS SE in Karlsruhe, integrating AI tools (Claude, Copilot, MCP servers) into the team's development workflow and building responsive web templates in a multi-brand TYPO3 environment. M.Sc. from the Karlsruhe Institute of Technology.
 
 I'm open to roles in **software engineering, full-stack / web development, Python / backend, and AI / LLM integration** in Germany (Karlsruhe region or remote). Valid German work permit, EU Blue Card eligible. 1-month notice.
 
