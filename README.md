@@ -1,6 +1,6 @@
 # Hi, I'm Vaibhav
 
-> Web Developer · Python · Data · GIS · M.Sc. Applied Geosciences (KIT)
+> Web Developer · Python · Data · AI Integration
 
 I work at the intersection of software development, data engineering, and applied geosciences. M.Sc. in Applied Geosciences from the Karlsruhe Institute of Technology. Currently a Working Student at IONOS SE in Karlsruhe, building responsive web templates in a multi-brand TYPO3 environment and integrating AI tools (Claude, Copilot) with MCP servers.
 
