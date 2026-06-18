@@ -1,10 +1,10 @@
 # Hi, I'm Vaibhav
 
-> Web Developer · Python · Data · AI Integration
+> Software Developer · Python · JavaScript · AI Integration
 
-I work at the intersection of software development, data engineering, and applied geosciences. M.Sc. in Applied Geosciences from the Karlsruhe Institute of Technology. Currently a Working Student at IONOS SE in Karlsruhe, building responsive web templates in a multi-brand TYPO3 environment and integrating AI tools (Claude, Copilot) with MCP servers.
+I'm a software developer building AI-integrated apps, serverless backends, and interactive web tools in Python, JavaScript, and Node.js. Currently a Working Student at IONOS SE in Karlsruhe, integrating AI tools (Claude, Copilot, MCP servers) into the team's development workflow and building responsive web templates in a multi-brand TYPO3 environment. M.Sc. in Applied Geosciences from the Karlsruhe Institute of Technology.
 
-I'm open to roles in **Python, web development, data engineering, and AI integration** in Germany (Karlsruhe and surrounding region, or remote). Valid German work permit. 1-month notice.
+I'm open to roles in **software engineering, full-stack / web development, Python / backend, and AI / LLM integration** in Germany (Karlsruhe region or remote). Valid German work permit, EU Blue Card eligible. 1-month notice.
 
 ## About this repo
 
@@ -23,46 +23,44 @@ This is part of why I could ship 4 connected deployed apps in parallel with my M
 
 ## What I'm currently building
 
-A connected portfolio of 4 deployed sites with 2 serverless backends and 2 AI integrations. Each one is pinned below.
+A connected portfolio of 4 deployed sites with 2 serverless backends and 3 LLM-integrated apps. Each one is pinned below.
 
-- **[Portfolio homepage](https://vaibhavj97.vercel.app)** - the front door  
+- **[Portfolio homepage](https://vaibhavj97.vercel.app)** - the front door, vanilla HTML/CSS/JS, no build step  
   Repo: [VaibhavJ97.github.io](https://github.com/VaibhavJ97/VaibhavJ97.github.io)
 
-- **[Master's Thesis Project](https://vaibhavj97-thesis.vercel.app)** - interactive maps of climate-projected geothermal potential in Germany (5 km resolution, 8 CMIP6 models, 2 SSP scenarios)  
-  Repo: [kit-master-thesis-portfolio](https://github.com/VaibhavJ97/kit-master-thesis-portfolio)
-
-- **[GeoChat](https://vaibhavj97-geochat.vercel.app)** - AI chatbot grounded in my thesis (Vercel serverless + Google Gemini)  
+- **[GeoChat](https://vaibhavj97-geochat.vercel.app)** - RAG-style AI chatbot grounded in a private knowledge base (Node.js serverless function + Google Gemini, server-side context injection)  
   Repo: [geochat](https://github.com/VaibhavJ97/geochat)
 
-- **[BHE Recommender](https://vaibhavj97-bhe.vercel.app)** - click anywhere on Germany to get a borehole heat exchanger feasibility report with a downloadable PDF  
+- **[BHE Recommender](https://vaibhavj97-bhe.vercel.app)** - interactive map tool: an in-browser JavaScript cost model, an LLM-generated interpretation, and a downloadable PDF report (jsPDF)  
   Repo: [bhe-recommender](https://github.com/VaibhavJ97/bhe-recommender)
+
+- **[Thesis Data Pipeline + Map Explorer](https://vaibhavj97-thesis.vercel.app)** - a Python (NumPy/SciPy) pipeline exporting 24 JSON files rendered live with Leaflet.js  
+  Repo: [kit-master-thesis-portfolio](https://github.com/VaibhavJ97/kit-master-thesis-portfolio)
 
 ## Tech I work with
 
-**Programming and Backend**: Python (advanced), JavaScript (intermediate), Node.js, REST APIs, Vercel serverless
+**Languages & Backend**: Python, JavaScript, Node.js, SQL, REST APIs, Vercel serverless, NumPy / Pandas / SciPy
 
-**Web Development**: HTML, CSS, JavaScript, TYPO3 with MASK Extension, Figma, responsive design
+**Web & Frontend**: HTML, CSS, JavaScript, responsive design, web accessibility (WCAG), TYPO3 (Fluid / MASK Extension), Bootstrap, Leaflet.js, jsPDF, chroma-js, Figma
 
-**Data and GIS**: Pandas, NumPy, SciPy, Google Earth Engine, QGIS, Leaflet.js, rasterio, geopandas, chroma-js, custom JSON pipelines
+**AI & LLM Integration**: Anthropic Claude API, Google Gemini API, GitHub Copilot, MCP servers, prompt engineering, context injection, RAG patterns, AI-pair-programming
 
-**AI Integration**: Anthropic Claude API, Google Gemini API, ChatGPT, GitHub Copilot, MCP servers, prompt engineering, AI-pair-programming workflows, context injection
-
-**Tools**: Git, GitHub, Jira, Confluence, Linux, VS Code, Jupyter, MS Office 365
+**Data & Tooling**: Power BI & DAX, JSON pipelines, GeoJSON / NetCDF, QGIS, Google Earth Engine, Git / GitHub, Jira / Confluence, Linux, VS Code, Jupyter
 
 ## What I'm currently exploring
 
-Node.js and serverless patterns · LLM API integration · MCP server integration · Interactive geospatial JavaScript · Custom JSON data pipelines · AI-assisted development workflows
+FastAPI & Python backends · LangChain & agent workflows · RAG with vector stores · MCP server development · Docker & Postgres · TypeScript · React · CI/CD with GitHub Actions
 
 ## Certifications (highlights)
 
 - Claude and Claude Code - Anthropic
-- Career Essentials in Sustainable Tech - Microsoft & LinkedIn
+- AWS AI Practitioner Challenge - Udacity & AWS
 - Python for Data Science & ML - IBM
 - SQL & Relational Databases - IBM
+- Data Fundamentals - IBM
 - Introduction to Power BI & DAX - Datacamp
 - Atlassian Agile Project Management - Atlassian & LinkedIn
-- MATLAB - MINT-Kollegs Baden-Württemberg, KIT
-- Leapfrog: Geological Modelling - Seequent
+- MATLAB - MINT-Kolleg, KIT
 
 ## Get in touch
 
@@ -77,4 +75,4 @@ Based in Karlsruhe, Germany. I respond to most messages within a few days.
 
 ## A small disclaimer
 
-I'm a developer with a research background, not a senior engineer with 10 years of production experience. I'm honest about that. What I do bring: a track record of finishing what I start, fluency with modern tools (including AI-pair-programming), and a willingness to learn fast in a real codebase.
+I'm a developer with a research background, not a senior engineer with 10 years of production experience, and I'm honest about that. What I do bring: a track record of finishing what I start, fluency with modern tools (including AI-pair-programming), and a willingness to learn fast in a real codebase.
